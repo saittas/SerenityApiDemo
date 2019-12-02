@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.SerenityApiDemo.junit.employeeInfo.SerenityBaseFileResponseTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.655 s <<< FAILURE! - in com.SerenityApiDemo.junit.employeeInfo.SerenityBaseFileResponseTest
+Test01(com.SerenityApiDemo.junit.employeeInfo.SerenityBaseFileResponseTest)  Time elapsed: 3.655 s  <<< ERROR!
+java.io.FileNotFoundException: C:\Users\PALAEM\Desktop\SerenityApiDemo\SerenityApiDemo\GetAvailablePlans_baseSerenity.txt (The system cannot find the path specified)
+	at com.SerenityApiDemo.junit.employeeInfo.SerenityBaseFileResponseTest.Test01(SerenityBaseFileResponseTest.java:44)
+
