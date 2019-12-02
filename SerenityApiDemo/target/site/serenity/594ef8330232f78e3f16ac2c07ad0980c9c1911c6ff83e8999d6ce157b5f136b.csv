@@ -1,3 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Serenity test file response test","Validating available plans response with base response","COMPROMISED","2019-11-21T13:19:50.64-06:00[America/Chicago]","0.0","3.62"
-"Serenity test file response test","Ignoring Json attiributes not required for the comparision","ERROR","2019-11-21T13:19:54.717-06:00[America/Chicago]","0.0","0.28"
